@@ -10,10 +10,6 @@ All about Marvel Heroes! Click on an image to learn more.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
 All images copyright by Marvel
